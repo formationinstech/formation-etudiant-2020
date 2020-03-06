@@ -1,6 +1,6 @@
 # formation-etudiant-2020
 
-# Travail pratique 1
+# Introduction
 
    Dans cette formation vous allez apprendre à réaliser des installations de câble co-axial exempte de tous problèmes,
    ainsi l'installation et la configuration des différent produit de Videotron offerts à sa clientèle, ci-dessous une liste
