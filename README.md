@@ -3,7 +3,7 @@
 ## Introduction
 
   Dans cette formation vous allez apprendre à réaliser des installations de câble co-axial exempte de tous problèmes,
-  ainsi l'installation et la configuration des différent produit de Videotron offerts à sa clientèle, ci-dessous une liste
+  ainsi l'installation et la configuration des différents produits de Videotron offerts à sa clientèle, ci-dessous une liste
   exhaustive du parcours de votre apprentissage.
 
 - Installation du fil de liaison (swing drop).
