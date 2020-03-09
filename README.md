@@ -6,7 +6,7 @@
   ainsi l'installation et la configuration des différents produits de Videotron offerts à sa clientèle, ci-dessous une liste
   exhaustive du parcours de votre apprentissage.
 
-- Installation du fil de liaison (swing drop).
+- Installation du fil de service (swing drop).
 - Procedures de realisation d'une installation de câble co-axial (step-by-step).
 - Procedures d'installation et de vérification d'un réseau local sans fil (Wi-Fi).
 - Installation et configuration de produit Hélix (la borne wifi, et les terminaux TV).
