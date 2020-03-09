@@ -12,3 +12,10 @@
 - Installation et configuration de produit Hélix (la borne wifi, et les terminaux TV).
 - Explication de produit (fonctionnement et applications) aux clients.
 
+
+## Premier  jour de formation
+
+  Le premier jour de la formation aura lieu Dimanche 15 mars 2020.
+
+  Dans cette journée nous allons vous créer à chacun de vous un compte git, que vous allerz activer avec votre adresse courriel,
+  puis nous allons vous donner une petite formation d'utilisation du dépôt git, suivie d'une présentation de votre formation.
