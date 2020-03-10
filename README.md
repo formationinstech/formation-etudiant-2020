@@ -19,3 +19,10 @@
 
   Dans cette journée nous allons vous créer à chacun de vous un compte git, que vous allerz activer avec votre adresse courriel,
   puis nous allons vous donner une petite formation d'utilisation du dépôt git, suivie d'une présentation de votre formation.
+
+
+## Examens
+  vous allez passer deux examens:
+
+- Examen swing-drop à laval.
+- Examen installation helix, internet, wifi, et terminal Helix chez videotron.
