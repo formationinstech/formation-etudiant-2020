@@ -23,33 +23,29 @@
 
 ## Le contenu de la première semaine (Dimanche 15 mars au samedi 21 mars)
 
--Télécharger le contenu du dossier swing drop qui se trouve sur le drive
--commencer par lire le document pour comprendre les termes et les pièces
--lisez le document qui se trouve dans le dossier outils
--visionnez les videos d'installation de swing drop
+- Télécharger le contenu du dossier swing drop qui se trouve sur le drive
+- commencer par lire le document pour comprendre les termes et les pièces
+- lisez le document qui se trouve dans le dossier outils
+- visionnez les videos d'installation de swing drop
 
 ### Quiz
 
--Le premier quiz aura lieu mercredi 18 mars de 19h00 à 21h00.
-+allez sur le site socrative.com
-+connectez vous autant que étudiant
-+tapez votre nom
-+entrez le nom de la classe INSTECH
+- Le premier quiz aura lieu mercredi 18 mars de 19h00 à 21h00.
++ allez sur le site socrative.com
++ connectez vous autant que étudiant
++ tapez votre nom
++ entrez le nom de la classe INSTECH
 
--Le même quiz sera disponible pour les étudiant qui ont raté le premier, ou bien pour ceux qui veulent le faire une deuxième fois.
+- Le même quiz sera disponible pour les étudiant qui ont raté le premier, ou bien pour ceux qui veulent le faire une deuxième fois.
 
 
 ## Dimanche 22 mars
 
--correction de quiz.
--formaiton des deux groupes
--pratique de la drop et de step by step
+- correction de quiz.
+- formaiton des deux groupes
+- pratique de la drop et de step by step
 
 
-
-
-
- 
 
 
 
