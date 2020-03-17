@@ -1,5 +1,5 @@
 # Formation-etudiant-2020
-# Formation suspendue les dimanches par précaution pour nous permettre de s'organiser suite aux évenenments par contre  vous pouvez poursuivre l'apprentissage en ligne merci . 
+# Formation suspendue les dimanches par précaution pour nous permettre de s'organiser suite aux évenements par contre vous pouvez poursuivre l'apprentissage en ligne merci . 
 
 ## Introduction
 
