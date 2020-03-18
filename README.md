@@ -1,5 +1,9 @@
 # Formation-etudiant-2020
-# Formation suspendue les dimanches par précaution pour nous permettre de s'organiser suite aux évenements par contre vous pouvez poursuivre l'apprentissage en ligne merci . 
+
+# Bonne nouvelle! nous avons pris des mesures afin de reprendre la formation en classe ce dimanche 22 mars 2020.
+# tous les étudiants doivent se présenter au 4230 Rang saint Élzear Est LAVAL dimanche 22 mars à 8h00, excépté les etudiants 
+# de l'université de quebec à outaouais qui deveront se pésenter au 444 Saint René Est à gatineau pour suivre la formation swing drop
+# s'ils ne reprendront pas l'école la semaine prochaine.
 
 ## Introduction
 
@@ -42,9 +46,9 @@
 
 ## Dimanche 22 mars
 
-- correction de quiz sera disponible sur git.
-- pas de présence en classe de formation a laval jusqu'à nouvel ordre.
-- l'apprentissage se poursuivra en ligne.
+- correction de quiz en classe.
+- formation de deux groupes.
+- pratique de swing drop et introduction à step by step.
 
 
 
