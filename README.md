@@ -42,9 +42,9 @@
 
 ## Dimanche 22 mars
 
-- correction de quiz.
-- formation des deux groupes
-- pratique de la drop et de step by step
+- correction de quiz sera disponible sur git.
+- pas de présence en classe de formation a laval jusqu'à nouvel ordre.
+- l'apprentissage se poursuivra en ligne.
 
 
 
