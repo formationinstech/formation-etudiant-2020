@@ -1,9 +1,6 @@
 # Formation-etudiant-2020
 
-# Bonne nouvelle! nous avons pris des mesures afin de reprendre la formation en classe ce dimanche 22 mars 2020.
-# tous les étudiants doivent se présenter au 4230 Rang saint Élzear Est LAVAL dimanche 22 mars à 8h00, excépté les etudiants 
-# de l'université de quebec à outaouais qui deveront se pésenter au 444 Saint René Est à gatineau pour suivre la formation swing drop
-# s'ils ne reprendront pas l'école la semaine prochaine.
+# Bonne nouvelle! nous avons pris des mesures afin de reprendre la formation en classe ce dimanche 22 mars 2020. tous les étudiants doivent se présenter au 4230 Rang saint Élzear Est LAVAL dimanche 22 mars à 8h00, excépté les etudiants de l'université de quebec à outaouais qui deveront se pésenter au 444 Saint René Est à gatineau lundi 23 mars à 8h00, pour suivre la formation swing drop, s'ils ne reprendront pas l'école la semaine prochaine.
 
 ## Introduction
 
