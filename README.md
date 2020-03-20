@@ -35,8 +35,9 @@
 - Le premier quiz aura lieu vendredi 20 mars de 19h00 à 21h00.
 + allez sur le site socrative.com
 + connectez vous en tant que étudiant
-+ tapez votre nom
 + entrez le nom de la classe INSTECH
++ tapez votre nom
++ commencez a répondre aux questions
 
 - Le même quiz sera disponible pour les étudiant qui ont raté le premier, ou bien pour ceux qui veulent le faire une deuxième fois.
 
