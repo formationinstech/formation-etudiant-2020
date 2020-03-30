@@ -35,7 +35,7 @@
 
 # Dimanche 29 mars
 - nouvelle vidéo dans le dossier step-by-step sur microsoft drive
-- téléchargez la vidéo dans le sous-dossier meter-pertes&captage
+- téléchargez la vidéo qui se trouve dans le sous-dossier meter-pertes&captage
 - visionnez la video
 - faites un résumé
 - préparez-vous pour le quiz de jeudi
