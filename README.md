@@ -48,14 +48,15 @@
 
 ### Quiz
 
-- Le premier quiz aura lieu vendredi 20 mars de 19h00 à 21h00.
+- le prochain quiz aura lieu samedi 4 avril 2020 entre 18h00 et 22h00.
 + allez sur le site socrative.com
 + connectez vous en tant que étudiant
 + entrez le nom de la classe INSTECH
 + tapez votre nom
 + commencez a répondre aux questions
+- sujet de quiz: step-by-step, test de pertes, full scan, test de captage, et points de démarcation.
 
-- Le même quiz sera disponible pour les étudiant qui ont raté le premier, ou bien pour ceux qui veulent le faire une deuxième fois.
+- Le même quiz sera disponible pour les étudiant qui ont raté le premier, ou bien pour ceux qui veulent le faire une deuxième fois dimanche à la même heure.
 
 
 
