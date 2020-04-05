@@ -2,7 +2,7 @@
 
 # quiz de samedi 04 avril
   nous vous informons qu'il y avait une erreur à la question 2, où il manquait une bonne réponse dans les choix.
-  cette question a été corrigée, et le quiz sera disponible aussi aujourd'hui dimanche 5 avirl, pour ceux qu'ils ne l'ont
+  cette question a été corrigée, et le quiz sera disponible aussi aujourd'hui dimanche 5 avril, pour ceux qu'ils ne l'ont
   pas fait et pour ceux qui veulent le faire une deuxième fois.
   nous vous présentons nos excuses pour l'inconvénient engendré par cette erreur.
 
