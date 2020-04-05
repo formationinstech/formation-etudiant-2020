@@ -1,8 +1,10 @@
 # Formation-etudiant-2020
 
-# Suite aux nouvelles mesures et restrictions de gouvernements concernant le COVID-19, les formations des dimanches avec la présence en classe sont suspendues jusqu'à nouvel ordre. En revanche les contenus multimédias et les documents seront toujours disponibles sur microsoft drive, ainsi que les alertes et communications de publications de nouveaux contenus ou de quiz sur la plateforme Git. je vous invite à consulter constamment le git afin que vous soyez au courant de toutes nouvelles informations, et aussi pour avancer dans votre formation.
-
-# nous allons continuer à publier du contenu multimédia, des documents pdf, et des quiz, afin de vous permettre d'avancer dans votre formation, et si vous avez des question vous n'avez qu'a créer un Issues sur git avec le sujet de votre question comme titre.
+# quiz de samedi 04 avril
+  nous vous informons qu'il y avait une erreur à la question 2, oú il manquais une bonne réponse.
+  cette question a été corrigée, et le quiz sera disponible aussi aujourd'hui dimanche 5 avirl, pour ceux qu'ils ne l'ont
+  pas fait ou ceux qui veulent le faire une deuxième fois.
+  nous présentons nos excuses pour l'inconvénient engendré par cette erreur.
 
 ## Introduction
 
@@ -48,7 +50,7 @@
 
 ### Quiz
 
-- le prochain quiz aura lieu samedi 4 avril 2020 entre 18h00 et 22h00.
+- le prochain quiz aura lieu dimanche 5 avril 2020 entre 18h00 et 22h00.
 + allez sur le site socrative.com
 + connectez vous en tant que étudiant
 + entrez le nom de la classe INSTECH
