@@ -1,11 +1,5 @@
 # Formation-etudiant-2020
 
-# Le quiz de samedi 04 avril
-  nous vous informons qu'il y avait une erreur à la question 2, où il manquait une bonne réponse dans les choix.
-  cette question a été corrigée, et le quiz sera disponible aussi aujourd'hui dimanche 5 avril, pour ceux qu'ils ne l'ont
-  pas fait et pour ceux qui veulent le faire une deuxième fois.
-  nous vous présentons nos excuses pour l'inconvénient engendré par cette erreur.
-
 ## Introduction
 
   Dans cette formation vous allez apprendre à réaliser des installations de câble co-axial exempte de tous problèmes,
@@ -35,28 +29,16 @@
 - visionnez les videos d'installation de swing drop
 
 
-# Dimanche 29 mars
-- nouvelle vidéo dans le dossier step-by-step sur microsoft drive
-- téléchargez la vidéo qui se trouve dans le sous-dossier meter-pertes&captage
-- visionnez la video
-- faites un résumé
-- préparez-vous pour le quiz de jeudi
-
-
-# Important
-- une autre video sera publiée mercredi avec un document pdf
-
-
 
 ### Quiz
 
-- le prochain quiz aura lieu dimanche 5 avril 2020 entre 18h00 et 22h00.
+- le prochain quiz aura lieu vendredi 10 avril 2020 entre 18h00 et 22h00.
 + allez sur le site socrative.com
 + connectez vous en tant que étudiant
 + entrez le nom de la classe INSTECH
 + tapez votre nom
 + commencez a répondre aux questions
-- sujet de quiz: step-by-step, test de pertes, full scan, test de captage, et points de démarcation.
+- sujet de quiz: contact client, test wifi, configuration de la borne, et ODROID.
 
 - Le même quiz sera disponible pour les étudiant qui ont raté le premier, ou bien pour ceux qui veulent le faire une deuxième fois dimanche à la même heure.
 
