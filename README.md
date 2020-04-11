@@ -32,7 +32,7 @@
 
 ### Quiz
 
-- le prochain quiz aura lieu vendredi 10 avril 2020 entre 18h00 et 22h00.
+- ceux qui n'ont pas fait le quiz du vendredi 10 avril 2020, le même quiz sera disponible samedi 11 avril entre 18h00 et 22h00.
 + allez sur le site socrative.com
 + connectez vous en tant que étudiant
 + entrez le nom de la classe INSTECH
