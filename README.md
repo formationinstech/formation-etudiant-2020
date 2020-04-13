@@ -13,13 +13,10 @@
 - Explication de produit (fonctionnement et applications) aux clients.
 
 
-## Premier  jour de formation
+## Formation en ligne sur la plateforme ZOOM.
+ je vous informe que vous aurez la possiblité de suivre une formation en ligne, dans laquelle je peux répondre à vos questions et vous donner aussi des explications sur la plateforme ZOOM. pour paticiper il suffit d'editer le fichier 
 
-  Le premier jour de la formation aura lieu Dimanche 15 mars 2020.
-
-  Dans cette journée nous allons vous créer à chacun de vous un compte git, que vous allerz activer avec votre adresse courriel,
-  puis nous allons vous donner une petite formation d'utilisation du dépôt git, suivie d'une présentation de votre formation.
-
+  
 
 ## Le contenu de la première semaine (Dimanche 15 mars au samedi 21 mars)
 
