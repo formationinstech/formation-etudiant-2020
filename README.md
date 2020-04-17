@@ -17,7 +17,11 @@
  je vous informe que vous aurez la possiblité de suivre une formation en ligne, dans laquelle je peux répondre à vos questions et vous donner aussi des explications sur la plateforme ZOOM. pour paticiper il suffit d'editer le fichier liste-pour_ZOMM, et d'ajoute votre adresse courriel dans une nouvelle ligne.
  l'horraire des formation en ligne pour la semaine du 12 au 18 avril est le suivant:
   - mercredi 15 avril de 13h00 à 16h00
-  - vendredi 17 avril de 13h00 à 16h00
+  - vendredi 17 avril de 13h00 à 16h00 (ANNULÉE) désolé je ne serez pas disponible.
+  
+  ## Prochaine formation en ligne obligatoire 
+  - dimanche 19 avril 2020 à 10h00
+  
 
   
 
