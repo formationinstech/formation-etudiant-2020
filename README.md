@@ -15,28 +15,23 @@
 
 ## Formation en ligne sur la plateforme ZOOM.
  je vous informe que vous aurez la possiblité de suivre une formation en ligne, dans laquelle je peux répondre à vos questions et vous donner aussi des explications sur la plateforme ZOOM. pour paticiper il suffit d'editer le fichier liste-pour_ZOMM, et d'ajoute votre adresse courriel dans une nouvelle ligne.
- l'horraire des formation en ligne pour la semaine du 12 au 18 avril est le suivant:
-  - mercredi 15 avril de 13h00 à 16h00
-  - vendredi 17 avril de 13h00 à 16h00 (ANNULÉE) désolé je ne serez pas disponible.
-  
-  ## Prochaine formation en ligne obligatoire 
-  - dimanche 19 avril 2020 à 10h00
+ l'horraire des formation en ligne pour la semaine du 19 au 25 avril est le suivant:
+ 
+  - vendredi 24 avril 2020 à 13h00
+  - dimanche 26 avril 2020 à 13h00
   
 
   
 
-## Le contenu de la première semaine (Dimanche 15 mars au samedi 21 mars)
+## La prochaine vidéo sur drive
 
-- Télécharger le contenu du dossier swing drop qui se trouve sur le drive
-- commencer par lire le document pour comprendre les termes et les pièces
-- lisez le document qui se trouve dans le dossier outils
-- visionnez les videos d'installation de swing drop
+- la prochaine video sur drive sera disponible jeudi 23 avirl
 
 
 
 ### Quiz
 
-- ceux qui n'ont pas fait le quiz du vendredi 10 avril 2020, le même quiz sera disponible samedi 11 avril entre 18h00 et 22h00.
+
 + allez sur le site socrative.com
 + connectez vous en tant que étudiant
 + entrez le nom de la classe INSTECH
