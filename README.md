@@ -25,7 +25,7 @@
 
 ## La prochaine vidéo sur drive
 
-- la prochaine video sur drive sera disponible jeudi 23 avirl
+- la prochaine video sur drive sera disponible jeudi 23 avril
 
 
 
