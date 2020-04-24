@@ -18,9 +18,8 @@
  l'horraire des formation en ligne pour la semaine du 19 au 25 avril est le suivant:
  
   - vendredi 24 avril 2020 à 13h00
-  - dimanche 26 avril 2020 à 13h00
-  # ID meeting: 747-071-5870
-  # password: 9hHzYP
+  - dimanche 26 avril 2020 à 10h00
+ 
 
   
 
