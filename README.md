@@ -19,7 +19,8 @@
  
   - vendredi 24 avril 2020 à 13h00
   - dimanche 26 avril 2020 à 13h00
-  
+  # ID meeting: 747-071-5870
+  # password: 9hHzYP
 
   
 
