@@ -17,8 +17,9 @@
  je vous informe que vous aurez la possiblité de suivre une formation en ligne, dans laquelle je peux répondre à vos questions et vous donner aussi des explications sur la plateforme ZOOM. pour paticiper il suffit d'editer le fichier liste-pour_ZOMM, et d'ajoute votre adresse courriel dans une nouvelle ligne.
  l'horraire des formation en ligne pour la semaine du 19 au 25 avril est le suivant:
  
-  - vendredi 24 avril 2020 à 13h00
-  - dimanche 26 avril 2020 à 09h00
+  - mercredi 29 avril 2020 à 13h00 pour faire un point sur le niveau de chacun de vous.
+  - vendredi 01 mai 2020 à 13h00   pour former les groupes
+  - dimanche 03 mai il n'y aura pas de formation.
  
 
   
