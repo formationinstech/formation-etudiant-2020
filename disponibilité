@@ -1,2 +1,1 @@
-nom    prenom    diponibilité ( jour{lundi - vendredi }, heure)
-Loiselle Mika    Mercredi (12h à 16h)  et Vendredi (12h à 16h)
+nom    prenom    diponibilité ( jour{ lundi, mardi, mercredi, jeudi, vendredi }, heure)
