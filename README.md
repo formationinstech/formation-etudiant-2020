@@ -15,21 +15,14 @@
 
 ## Formation en ligne sur la plateforme ZOOM.
  je vous informe que vous aurez la possiblité de suivre une formation en ligne, dans laquelle je peux répondre à vos questions et vous donner aussi des explications sur la plateforme ZOOM. pour paticiper il suffit d'editer le fichier liste-pour_ZOMM, et d'ajoute votre adresse courriel dans une nouvelle ligne.
- l'horraire des formation en ligne pour la semaine du 19 au 25 avril est le suivant:
+ l'horraire des formation en ligne pour la semaine du 03 au 09 mai est le suivant:
  
-  - mercredi 29 avril 2020 à 13h00 pour faire un point sur le niveau de chacun de vous.
-  - vendredi 01 mai 2020 à 13h00   pour former les groupes
-  - dimanche 03 mai il n'y aura pas de formation.
+  - jeudi 07 mai2020 à 12h00.
+  - vendredi 08 mai 2020 à 13h00
+  - dimanche 10 mai il n'y aura pas de formation.
  
 
   
-
-## La prochaine vidéo sur drive
-
-- la prochaine video sur drive sera disponible jeudi 23 avril
-
-
-
 ### Quiz
 
 
