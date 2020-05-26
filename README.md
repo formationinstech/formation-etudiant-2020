@@ -15,10 +15,10 @@
 
 ## Formation en ligne sur la plateforme ZOOM.
  je vous informe que vous aurez la possiblité de suivre une formation en ligne, dans laquelle je peux répondre à vos questions et vous donner aussi des explications sur la plateforme ZOOM. pour paticiper il suffit d'editer le fichier liste-pour_ZOMM, et d'ajoute votre adresse courriel dans une nouvelle ligne.
- l'horraire des formation en ligne pour la semaine du 17 au 23 mai est le suivant:
+ l'horraire des formation en ligne pour la semaine du 24 au 30 mai est le suivant:
  
-  - mercredi 20 mai2020 à 13h30.
-  - vendredi 22 mai 2020 à 13h30
+  - mercredi 27 mai2020 à 13h30.
+  
 
  
 
